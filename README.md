@@ -16,12 +16,13 @@ Money Making Mode produced several local/private revenue-readiness kits. This po
 
 ## Review order
 
-1. Read `docs/portfolio-review-worksheet.md`.
-2. Review `docs/approval-request-drafts.md` for exact-one approval request wording.
-3. Confirm each repo is clean with `git status --short --branch`.
-4. Run each repo's local checks only.
-5. Pick at most one later approval-gated action.
-6. Do not perform that action until Charlie explicitly approves the exact command, destination, data boundary, and non-goals.
+1. Read `docs/decision-dashboard.md` for the current ranking snapshot.
+2. Read `docs/portfolio-review-worksheet.md`.
+3. Review `docs/approval-request-drafts.md` for exact-one approval request wording.
+4. Confirm each repo is clean with `git status --short --branch`.
+5. Run each repo's local checks only.
+6. Pick at most one later approval-gated action.
+7. Do not perform that action until Charlie explicitly approves the exact command, destination, data boundary, and non-goals.
 
 ## Guardrails
 

@@ -2,7 +2,7 @@
 
 > Local review worksheet only. This is not approval to publish, push, contact anyone, inspect private systems, use real customer/client/team data, deploy anything, spend money, change accounts/credentials, or create a paid offer.
 
-Use this worksheet to choose which local kit deserves the next explicitly approved step later. It should reduce review time, not trigger external action.
+Use this worksheet after reading `docs/decision-dashboard.md` to choose which local kit deserves the next explicitly approved step later. It should reduce review time, not trigger external action.
 
 ## Review metadata
 

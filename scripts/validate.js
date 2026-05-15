@@ -8,6 +8,7 @@ const requiredFiles = [
   'docs/portfolio-review-worksheet.md',
   'docs/local-verification-plan.md',
   'docs/approval-request-drafts.md',
+  'docs/decision-dashboard.md',
   'package.json',
 ];
 const requiredPhrases = [
@@ -16,6 +17,9 @@ const requiredPhrases = [
   'AI Adoption Readiness Kit',
   'Agent Handoff Kit',
   'Portfolio Review Worksheet',
+  'Portfolio Decision Dashboard',
+  'Current ranking snapshot',
+  'Fast review checklist',
   'Exact-one next step draft',
   'Approval Request Drafts',
   'Option A — private backup only',
