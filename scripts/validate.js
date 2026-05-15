@@ -9,6 +9,7 @@ const requiredFiles = [
   'docs/local-verification-plan.md',
   'docs/approval-request-drafts.md',
   'docs/decision-dashboard.md',
+  'docs/comparison-evidence.md',
   'package.json',
 ];
 const requiredPhrases = [
@@ -21,6 +22,9 @@ const requiredPhrases = [
   'Portfolio Decision Dashboard',
   'Current ranking snapshot',
   'Fast review checklist',
+  'Portfolio Comparison Evidence',
+  'Fastest path to first paid/validated service shape',
+  'Freshest low-code/local-service template angle',
   'Exact-one next step draft',
   'Approval Request Drafts',
   'Option A — private backup only',

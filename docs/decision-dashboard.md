@@ -2,7 +2,7 @@
 
 > Local decision aid only. This is not approval to publish, push, contact anyone, inspect private systems, use real customer/client/team data, deploy anything, spend money, change accounts/credentials, or create a paid offer.
 
-Use this dashboard to decide what deserves attention next without reopening every kit first.
+Use this dashboard to decide what deserves attention next without reopening every kit first. For proof details, read `docs/comparison-evidence.md`.
 
 ## Current ranking snapshot
 
@@ -38,4 +38,4 @@ Before asking Charlie for any approval later, confirm:
 
 ## Recommended local next move
 
-If the loop needs another purely local improvement, add a one-page offer snapshot to `local-service-automation-recipes` or refine portfolio comparison evidence. If staying inside the portfolio, only update rankings when verification evidence or package contents change.
+If the loop needs another purely local improvement, create a local handoff/review worksheet for `local-service-automation-recipes` or update comparison evidence only when verification/package contents change.
