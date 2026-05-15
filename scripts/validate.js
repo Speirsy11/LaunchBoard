@@ -10,6 +10,7 @@ const requiredFiles = [
   'docs/approval-request-drafts.md',
   'docs/decision-dashboard.md',
   'docs/comparison-evidence.md',
+  'docs/pre-17-local-decision-note.md',
   'package.json',
 ];
 const requiredPhrases = [
@@ -23,6 +24,9 @@ const requiredPhrases = [
   'Current ranking snapshot',
   'Fast review checklist',
   'Portfolio Comparison Evidence',
+  'Pre-17:00 Local Decision Note',
+  'Current local recommendation',
+  'Current parked state',
   'Fastest path to first paid/validated service shape',
   'Freshest low-code/local-service template angle',
   'Exact-one next step draft',

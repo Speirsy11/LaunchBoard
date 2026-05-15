@@ -19,12 +19,13 @@ Money Making Mode produced several local/private revenue-readiness kits. This po
 
 1. Read `docs/decision-dashboard.md` for the current ranking snapshot.
 2. Read `docs/comparison-evidence.md` for compact proof and differentiation evidence.
-3. Read `docs/portfolio-review-worksheet.md`.
-4. Review `docs/approval-request-drafts.md` for exact-one approval request wording.
-5. Confirm each repo is clean with `git status --short --branch`.
-6. Run each repo's local checks only.
-7. Pick at most one later approval-gated action.
-8. Do not perform that action until Charlie explicitly approves the exact command, destination, data boundary, and non-goals.
+3. Read `docs/pre-17-local-decision-note.md` for the current local recommendation and parked-state handoff.
+4. Read `docs/portfolio-review-worksheet.md`.
+5. Review `docs/approval-request-drafts.md` for exact-one approval request wording.
+6. Confirm each repo is clean with `git status --short --branch`.
+7. Run each repo's local checks only.
+8. Pick at most one later approval-gated action.
+9. Do not perform that action until Charlie explicitly approves the exact command, destination, data boundary, and non-goals.
 
 ## Guardrails
 

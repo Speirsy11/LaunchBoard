@@ -2,7 +2,7 @@
 
 > Local decision aid only. This is not approval to publish, push, contact anyone, inspect private systems, use real customer/client/team data, deploy anything, spend money, change accounts/credentials, or create a paid offer.
 
-Use this dashboard to decide what deserves attention next without reopening every kit first. For proof details, read `docs/comparison-evidence.md`.
+Use this dashboard to decide what deserves attention next without reopening every kit first. For proof details, read `docs/comparison-evidence.md`; for the current parked-state handoff, read `docs/pre-17-local-decision-note.md`.
 
 ## Current ranking snapshot
 
@@ -38,4 +38,4 @@ Before asking Charlie for any approval later, confirm:
 
 ## Recommended local next move
 
-If the loop needs another purely local improvement, create a local handoff/review worksheet for `local-service-automation-recipes` or update comparison evidence only when verification/package contents change.
+If the loop needs another purely local improvement, update only evidence or final handoff notes that reduce decision fatigue. Do not start external action.
