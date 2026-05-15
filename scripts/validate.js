@@ -11,6 +11,7 @@ const requiredFiles = [
   'docs/decision-dashboard.md',
   'docs/comparison-evidence.md',
   'docs/pre-17-local-decision-note.md',
+  'docs/local-evidence-refresh-2026-05-15.md',
   'package.json',
 ];
 const requiredPhrases = [
@@ -27,6 +28,9 @@ const requiredPhrases = [
   'Pre-17:00 Local Decision Note',
   'Current local recommendation',
   'Current parked state',
+  'Local Evidence Refresh',
+  'Latest observed local commit',
+  'Practical next human decision',
   'Fastest path to first paid/validated service shape',
   'Freshest low-code/local-service template angle',
   'Exact-one next step draft',

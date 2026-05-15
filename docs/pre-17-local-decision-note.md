@@ -19,6 +19,7 @@ If Charlie wants a different angle instead:
 - `docs/decision-dashboard.md` ranks the four opportunities.
 - `docs/comparison-evidence.md` lists proof assets and open risks.
 - `docs/approval-request-drafts.md` provides exact-one approval wording for later steps.
+- `docs/local-evidence-refresh-2026-05-15.md` captures latest local commit/status evidence.
 - Each repo has local validation and review assets; no repo needs external action to be reviewed.
 
 ## Exact-one later paths
