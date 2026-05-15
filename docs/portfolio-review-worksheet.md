@@ -22,6 +22,7 @@ Score each kit 0, 1, or 2.
 | SMB AI Workflow Audit Kit | | | | | | |
 | AI Adoption Readiness Kit | | | | | | |
 | Agent Handoff Kit | | | | | | |
+| Local Service Automation Recipes | | | | | | |
 
 ## Interpretation
 
@@ -47,7 +48,7 @@ Do not act yet. Draft only:
 
 - Chosen kit:
 - Exact requested action:
-- Matching approval draft from `docs/approval-request-drafts.md`: Option A / B / C / D / none
+- Matching approval draft from `docs/approval-request-drafts.md`: Option A / B / C / D / E / none
 - Exact destination/path/audience, if applicable:
 - Exact command/message, if applicable:
 - Allowed data boundary:
@@ -57,4 +58,4 @@ Do not act yet. Draft only:
 
 ## Current recommendation
 
-Keep all three kits local/private. If Charlie later wants to move one forward, select exactly one approval-gated path, use `docs/approval-request-drafts.md` to write the precise request, and stop before doing anything external.
+Keep all four opportunities local/private. If Charlie later wants to move one forward, select exactly one approval-gated path, use `docs/approval-request-drafts.md` to write the precise request, and stop before doing anything external.

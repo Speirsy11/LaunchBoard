@@ -19,6 +19,12 @@ For `agent-handoff-kit`, also run:
 npm run demo:fixture
 ```
 
+For `local-service-automation-recipes`, also run:
+
+```bash
+npm run demo:fixture --silent
+```
+
 ## Sensitive-pattern review
 
 Use grep only as a review aid. Expected matches should be guardrail/denylist language such as `secret`, `customer data`, or `production URL`; unexpected real values should block the next step.

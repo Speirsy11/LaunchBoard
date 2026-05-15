@@ -72,6 +72,23 @@ Rollback/cleanup: <temporary folder removal or git checkout plan>
 Stop condition: task requires private secrets, production access, unapproved commands, or external action
 ```
 
+## Option E — one fictional/local recipe trial only
+
+Best fit for `local-service-automation-recipes`, only if Charlie approves an exact fictional scenario and confirms no real tools or customer data are used.
+
+```text
+Request: approve one fictional/local recipe trial for local-service-automation-recipes.
+
+Exact local path: /Users/charliespeirs/Developer/local-service-automation-recipes
+Exact fictional scenario: <approved fictional scenario>
+Allowed action: run the local demo fixture and/or draft one local recipe output from fictional/sample inputs only
+Approved commands: npm run check; npm run demo:fixture --silent
+Not allowed: connect n8n/Zapier/email/SMS/CRM/calendar/accounting/payment tools, send messages, inspect private systems, use customer data, deploy, publish, spend, change accounts/credentials, or create payment links
+Data boundary: fictional/sample inputs only
+Rollback/cleanup: discard any temporary fictional output file or git checkout local edits
+Stop condition: task needs real customer data, live tool access, credentials, external communication, payment data, or an unapproved command
+```
+
 ## Portfolio recommendation rules
 
 - Prefer the kit with the clearest next learning goal.
@@ -79,4 +96,5 @@ Stop condition: task requires private secrets, production access, unapproved com
 - Prefer public-safe prep only after local checks pass and visibility/license choices are clear.
 - Prefer validation conversation drafts only when Charlie names the exact audience and approves final text.
 - Prefer a local-repo trial only for low-risk work with explicit command and data boundaries.
+- Prefer a fictional/local recipe trial only when the scenario is sample-only and no tools are connected.
 - If two options seem equally good, choose neither yet; improve the decision notes locally.

@@ -11,10 +11,11 @@ Use this dashboard to decide what deserves attention next without reopening ever
 | 1 | SMB AI Workflow Audit Kit | Most directly tied to a small paid/validated service shape; has intake, sample report, pilot, acceptance, buyer-fit, handoff, and review docs. | Option C: one validation conversation draft, or Option B: public-safe prep, but only after Charlie chooses exactly one. | Do not contact anyone, use real business data, or imply the audit is available for sale. |
 | 2 | Agent Handoff Kit | Strong developer-facing template with safe demo fixture, initializer, review worksheet, and offer snapshot. | Option D: one approved local-repo trial, or Option B: public-safe prep. | Do not inspect private repos or run it on real work without exact path/task approval. |
 | 3 | AI Adoption Readiness Kit | Clear educational/workshop-style kit with three fictional samples and comparison matrix; useful but less directly differentiated than SMB audit. | Option C: one validation conversation draft, or Option B: public-safe prep. | Do not use real team/customer data or imply readiness advice is compliance/professional advice. |
+| 4 | Local Service Automation Recipes | Fresh local-service automation angle with draft-only recipes, JSON skeletons, and a no-tool demo fixture; promising but less validated than the top three. | Option E: one fictional/local recipe trial, or Option B: public-safe prep after more local packaging. | Do not connect n8n, Zapier, email, SMS, CRM, calendar, accounting, payment, or use customer data. |
 
 ## Decision rules
 
-Prefer the top-ranked kit only if the goal is first paid/validated offering readiness. Prefer `agent-handoff-kit` if Charlie wants a developer-tooling angle. Prefer `ai-adoption-readiness-kit` if Charlie wants a broader workshop/self-assessment angle.
+Prefer the top-ranked kit only if the goal is first paid/validated offering readiness. Prefer `agent-handoff-kit` if Charlie wants a developer-tooling angle. Prefer `ai-adoption-readiness-kit` if Charlie wants a broader workshop/self-assessment angle. Prefer `local-service-automation-recipes` only if Charlie wants a low-code/local-service automation template angle that stays fictional and draft-only.
 
 Choose **none** if:
 
@@ -37,4 +38,4 @@ Before asking Charlie for any approval later, confirm:
 
 ## Recommended local next move
 
-If the loop needs another purely local improvement, add a fresh fourth opportunity rather than further polishing these three kits. If staying inside the portfolio, only update rankings when verification evidence or package contents change.
+If the loop needs another purely local improvement, add a one-page offer snapshot to `local-service-automation-recipes` or refine portfolio comparison evidence. If staying inside the portfolio, only update rankings when verification evidence or package contents change.

@@ -13,6 +13,7 @@ Money Making Mode produced several local/private revenue-readiness kits. This po
 | SMB AI Workflow Audit Kit | `/Users/charliespeirs/Developer/smb-ai-workflow-audit-kit` | Heavily packaged | Intake, sample report, pilot blueprint, acceptance scorecard, buyer-fit, handoff, review worksheet | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved validation conversation later |
 | AI Adoption Readiness Kit | `/Users/charliespeirs/Developer/ai-adoption-readiness-kit` | Heavily packaged | Safe intake, scoring rubric, three fictional samples, comparison matrix, review worksheet | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved real-team review later |
 | Agent Handoff Kit | `/Users/charliespeirs/Developer/agent-handoff-kit` | Heavily packaged | Handoff templates, dry-run initializer, demo fixture, review worksheet, offer snapshot | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved local-repo trial later |
+| Local Service Automation Recipes | `/Users/charliespeirs/Developer/local-service-automation-recipes` | Fresh packaged starter | Draft-only recipes, workflow skeletons, safety checklist, and local demo fixture | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved fictional/local recipe trial later |
 
 ## Review order
 
