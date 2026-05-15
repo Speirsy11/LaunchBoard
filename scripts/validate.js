@@ -7,6 +7,7 @@ const requiredFiles = [
   'README.md',
   'docs/portfolio-review-worksheet.md',
   'docs/local-verification-plan.md',
+  'docs/approval-request-drafts.md',
   'package.json',
 ];
 const requiredPhrases = [
@@ -16,6 +17,10 @@ const requiredPhrases = [
   'Agent Handoff Kit',
   'Portfolio Review Worksheet',
   'Exact-one next step draft',
+  'Approval Request Drafts',
+  'Option A — private backup only',
+  'Option D — one local-repo trial only',
+  'Matching approval draft',
   'Local Verification Plan',
   'Sensitive-pattern review',
   'not run',

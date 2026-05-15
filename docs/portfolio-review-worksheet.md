@@ -47,6 +47,7 @@ Do not act yet. Draft only:
 
 - Chosen kit:
 - Exact requested action:
+- Matching approval draft from `docs/approval-request-drafts.md`: Option A / B / C / D / none
 - Exact destination/path/audience, if applicable:
 - Exact command/message, if applicable:
 - Allowed data boundary:
@@ -56,4 +57,4 @@ Do not act yet. Draft only:
 
 ## Current recommendation
 
-Keep all three kits local/private. If Charlie later wants to move one forward, select exactly one approval-gated path and write the precise request before doing anything external.
+Keep all three kits local/private. If Charlie later wants to move one forward, select exactly one approval-gated path, use `docs/approval-request-drafts.md` to write the precise request, and stop before doing anything external.
