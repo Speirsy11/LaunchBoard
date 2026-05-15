@@ -1,0 +1,9 @@
+{
+  "name": "revenue-readiness-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-only index of fictional revenue-readiness kits and approval-gated next steps.",
+  "scripts": {
+    "check": "node scripts/validate.js"
+  }
+}
