@@ -1,37 +1,44 @@
-# Revenue Readiness Portfolio
+# LaunchBoard
 
-This repository is a **local portfolio artifact only**. It is not published, not pushed, not a public page, not outreach, not a paid offer, and not approval to contact anyone, deploy anything, spend money, inspect private systems, process customer data, change accounts/credentials, or create payment flows.
+**LaunchBoard helps you choose which small project is most ready to pursue next.**
 
-## Purpose
+It is a simple decision dashboard for comparing local revenue experiments. It does not sell, publish, deploy, message, or contact anyone.
 
-Money Making Mode produced several local/private revenue-readiness kits. This portfolio index helps Charlie review them quickly, compare their next approval-gated options, and avoid over-polishing a saturated kit.
+## Who it is for
 
-## Indexed local opportunities
+A solo builder who has several half-ready project ideas and needs to choose one clear next move instead of polishing everything forever.
 
-| Opportunity | Local path | Status | Strongest local asset | Next approval-gated option |
-| --- | --- | --- | --- | --- |
-| SMB AI Workflow Audit Kit | `/Users/charliespeirs/Developer/smb-ai-workflow-audit-kit` | Heavily packaged | Intake, sample report, pilot blueprint, acceptance scorecard, buyer-fit, handoff, review worksheet | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved validation conversation later |
-| AI Adoption Readiness Kit | `/Users/charliespeirs/Developer/ai-adoption-readiness-kit` | Heavily packaged | Safe intake, scoring rubric, three fictional samples, comparison matrix, review worksheet | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved real-team review later |
-| Agent Handoff Kit | `/Users/charliespeirs/Developer/agent-handoff-kit` | Heavily packaged | Handoff templates, dry-run initializer, demo fixture, review worksheet, offer snapshot | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved local-repo trial later |
-| Local Service Automation Recipes | `/Users/charliespeirs/Developer/local-service-automation-recipes` | Fresh packaged starter | Draft-only recipes, workflow skeletons, safety checklist, and local demo fixture | Choose exactly one: private backup, public-safe repo prep, or one explicitly approved fictional/local recipe trial later |
+## How to use it
 
-## Review order
+1. Read `docs/decision-dashboard.md`
+2. Compare proof in `docs/comparison-evidence.md`
+3. Read `docs/pre-17-local-decision-note.md`
+4. Pick one option from `docs/approval-request-drafts.md`
+5. Verify locally:
 
-1. Read `docs/decision-dashboard.md` for the current ranking snapshot.
-2. Read `docs/comparison-evidence.md` for compact proof and differentiation evidence.
-3. Read `docs/pre-17-local-decision-note.md` for the current local recommendation and parked-state handoff.
-4. Read `docs/local-evidence-refresh-2026-05-15.md` for latest local commit/status evidence.
-5. Read `docs/portfolio-review-worksheet.md`.
-6. Review `docs/approval-request-drafts.md` for exact-one approval request wording.
-7. Confirm each repo is clean with `git status --short --branch`.
-8. Run each repo's local checks only.
-9. Pick at most one later approval-gated action.
-10. Do not perform that action until Charlie explicitly approves the exact command, destination, data boundary, and non-goals.
+```bash
+npm run check
+```
+
+## What it compares
+
+- SMB AI Workflow Audit Kit / FlowAudit
+- AI Adoption Readiness Kit / AIReady
+- Agent Handoff Kit / HandoffKit
+- Local Service Automation Recipes / LocalFlow
+
+## What it tells you
+
+- Which idea is most ready
+- What evidence exists
+- What is still risky
+- What local check to run
+- What exact-one next step to ask approval for
+
+## Current recommendation
+
+Use this repo as a decision aid, not an action trigger. Pick one path, verify it, then ask for one explicit approval. Do not bundle multiple external actions together.
 
 ## Guardrails
 
-- Use fictional/sample data only.
-- Do not push, publish, post, email, message, deploy, spend, change accounts/credentials, inspect private systems, submit bounty reports, perform live testing/scanning, contact anyone, or create payment flows.
-- Do not treat a review worksheet as approval.
-- Mark risky or unclear next steps `[blocked]`.
-- Keep skipped checks marked `not run`, not passed.
+This is a local portfolio artifact only. It is not approval to publish, push, contact anyone, inspect private systems, use real customer/client/team data, deploy anything, spend money, change accounts/credentials, or create a paid offer. Do not push, publish, post, email, message, deploy, spend, or contact anyone from this repo. Mark unclear items as `[blocked]`, and keep skipped checks as `not run`.
